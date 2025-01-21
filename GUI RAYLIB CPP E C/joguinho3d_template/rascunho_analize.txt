@@ -1,0 +1,13 @@
+
+
+
+pf = p; true
+pj = p; true 
+pf = pj; false
+p = pf; false
+p = pj; false
+
+P = p; true
+p = P; false
+Pf = p; true
+P = pf; false

@@ -1,0 +1,13 @@
+
+
+
+
+video do indiano fazendo funcionar: https://www.youtube.com/watch?v=PaAcVk5jUd8
+
+primeiro copie o codigo do indiano git hub : https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2
+
+
+de git clone no git bash : 
+{ git clone https://github.com/educ8s/Raylib-CPP-Starter-Template-for-VSCODE-V2.git }
+
+pra transformar em .exe no terminal: gcc main.cpp -o main.exe 
